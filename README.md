@@ -19,6 +19,7 @@ Do you use a toilet? Do you do the number 2? Then the Automatic Toilet Paper Fol
 
 
 # CAD
+<img width="464" height="464" alt="image" src="https://github.com/user-attachments/assets/647eae32-5e32-4f7a-88be-d0adc896997e" />
 
 # Wiring
 <img width="1242" height="721" alt="image" src="https://github.com/user-attachments/assets/ccc7d688-1308-42ba-be8b-779ade13ceeb" />
