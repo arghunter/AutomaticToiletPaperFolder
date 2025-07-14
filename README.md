@@ -1,1 +1,11 @@
 # Automatic Toilet Paper Folder
+# BOM
+| Part Name             | Count |
+|-----------------------|-------|
+| Orpheus Pico(RP-2040)   | 1     |
+| 9V battery         | 1     |
+| Nema 17 Stepper Motor        | 2     |
+| Push buttons          | 3     |
+| BreadBoards      | 2     |
+| 4988 Stepper Drivers |2|
+| Solid Core Wire          | 5 feet    |
